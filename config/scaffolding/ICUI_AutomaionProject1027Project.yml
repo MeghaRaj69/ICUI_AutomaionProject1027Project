@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ICUI_AutomaionProject1027Project
+  gitServerName: ICAccount1027
+  gitUrl: https://github.com/MeghaRaj69/ICUI_AutomaionProject1027Project
+  gitUsername: MeghaRaj69
+  gitBranch: main
